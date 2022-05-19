@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Next JS 
+- Next.js 
 - Typescript
 - Golang
 - Python
