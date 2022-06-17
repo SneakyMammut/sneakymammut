@@ -1,5 +1,6 @@
 ## Hi there 👋
 - Next.js 
 - Typescript
-- Golang
+- GO
 - Python
+- Bash + Powershell
